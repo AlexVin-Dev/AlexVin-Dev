@@ -17,6 +17,10 @@
 [<img align="left" alt="VelFan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
+### 📕 Latest Blog Posts
+
+---
+
 <!-- ### Languages and Tools: -->
 
 <br />
