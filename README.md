@@ -24,5 +24,5 @@
 
 [website]: https://velfan.ru
 [twitter]: https://twitter.com/AlexanderVF6
-[youtube]: https://youtube.com/UCGswSoS5LvrV9PyHX9GUg_w
+[youtube]: https://youtube.com/user/UCGswSoS5LvrV9PyHX9GUg_w
 
