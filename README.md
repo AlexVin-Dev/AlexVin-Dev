@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VelFan.ru" width="22px" src="https://cdn-icons.flaticon.com/png/512/3083/premium/3083698.png?token=exp=1635779226~hmac=36cd5c997e6ed11a180bfc22bf119f2a" />][website]
-[<img align="left" alt="VelFan | YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504848.png?token=exp=1635779289~hmac=f24778800855040d357bee9dc176e580" />][youtube]
-[<img align="left" alt="VelFan | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504839.png?token=exp=1635779319~hmac=658fe39a0d445031b6b7c3bb71fcfede" />][twitter]
+[<img align="left" alt="VelFan.ru" width="22px" src="https://github.com/AlexVin-Dev/AlexVin-Dev/blob/main/img/web.png?raw=true" />][website]
+[<img align="left" alt="VelFan | YouTube" width="22px" src="https://github.com/AlexVin-Dev/AlexVin-Dev/blob/main/img/youtube.png?raw=true" />][youtube]
+[<img align="left" alt="VelFan | Twitter" width="22px" src="https://github.com/AlexVin-Dev/AlexVin-Dev/blob/main/img/twitter.png?raw=true" />][twitter]
 <br />
 
 
