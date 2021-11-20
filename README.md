@@ -5,10 +5,9 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 В настоящее время я учусь всему 😊
+- 👯 Я хочу сотрудничать с другими создателями контента
+- 🥅 Цели 2020 года: Вносить больший вклад в проекты с открытым исходным кодом
 
 ### Connect with me:
 
