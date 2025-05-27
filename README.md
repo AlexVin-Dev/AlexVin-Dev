@@ -21,8 +21,10 @@
 ---
 
 ## 📊 GitHub Активность:
-[![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/ВАШ_НИК)  
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=vision-friendly-dark)](https://github.com/ВАШ_НИК)
+[![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexVin-Dev&show_icons=true&theme=radical)](https://github.com/AlexVin-Dev
+)  
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVin-Dev&layout=compact&theme=vision-friendly-dark)](https://github.com/AlexVin-Dev
+)
 
 ---
 
@@ -34,9 +36,10 @@
 ---
 
 ## 🌐 Социальные сети:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![VK](https://img.shields.io/badge/VK-%232E87FB.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ваша_страница)
-[![Habr Career](https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/ваш_профиль)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/velfan)
+[![VK](https://img.shields.io/badge/VK-%232E87FB.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/velfan)
+[![Habr Career](https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/velfan
+)
 
 
 
